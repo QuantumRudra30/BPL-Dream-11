@@ -1,5 +1,4 @@
-#Live Server Domain
-bpl-dream-11-b.netlify.app
+https://bpl-dream-11-b.netlify.app
 
 # React + TypeScript + Vite
 
